@@ -1,0 +1,32 @@
+<h2>Кто использует Python?</h2>
+
+<p>Сообщество вокруг Python одно из самых сильных в мире IT. Это сложный хорошо организованный и постоянно развивающийся организм.
+Помимо сотни тысяч индивидуальных разработчиков и небольших софтверных компаний, Python поддерживают такие гиганты IT как:</p>
+<ul>
+ 	<li>Google</li>
+ 	<li>Dropbox</li>
+ 	<li>Mozilla</li>
+ 	<li>Facebook</li>
+ 	<li>Yandex</li>
+ 	<li>Red Hat</li>
+ 	<li>Microsoft (с недавних пор очень активно, в частности с Visual Studio)</li>
+ 	<li>Intel (активно ведёт исследовательскую работу в области параллельных вычислений на Python)</li>
+</ul>
+<p>... и многие многие другие. Впечатляет, не правда ли? Что же касается крупных и популярных проектов, написанных на Python то это такие монстры как:</p>
+<ul>
+ 	<li>YouTube (большая часть кодовой базы полностью на Python)</li>
+ 	<li>Первая версия поискового паука Google была написана на Python, а позже, из-за чрезвычайно высокой нагрузки и требований к скорости, была переписана на C++.</li>
+ 	<li>Десктопный клиент Dropbox</li>
+ 	<li>Reddit</li>
+ 	<li>Instagram (<a href="http://www.wired.com/2016/06/instagram-strikes-sizable-blow-silicon-valleys-tabs-vs-spaces-war/" target="_blank" rel="nofollow">500M юзеров на Python</a>)</li>
+ 	<li>Bitbucket (Python 2.7 и Django 1.7.11)</li>
+ 	<li>EVE Online MMOPG</li>
+ 	<li>Quora</li>
+ 	<li>Spotify</li>
+ 	<li>Критические сервисы PayPal, обрабатывающие до 2 миллиардов запросов в сутки. Подробнее можно узнать в подкасте от TalkPython, <a href="https://talkpython.fm/episodes/show/54/enterprise-software-with-python" target="_blank" rel="nofollow">выпуск #54</a></li>
+ 	<li>Сервисы Mozilla</li>
+ 	<li>Популярный сервис идей Pinterest</li>
+ 	<li>Сервис комментариев Disqus (использую в этом блоге, сервис реализован на Django)</li>
+ 	<li>Внутренние сервисы Facebook (см. постер в моей <a href="https://khashtamov.com/2016/06/pycon-us-2016-portland/">заметке о PyCon</a>)</li>
+ 	<li>Система контроля версий Mercurial (до некоторых пор разработчики Python использовали её в своей работе)</li>
+ 	<li>Сервисы Wargaming</li>
